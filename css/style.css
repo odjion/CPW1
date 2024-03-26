@@ -1,0 +1,15 @@
+body { background-color: blueviolet;
+
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+
+p {
+    color:  rgb(32, 32, 119);
+}
+
+
+/* posso utilizar esse sinal para comentar no código e deixar algumas opções salvas
+/* para não alterar as linhas de código 
