@@ -5,6 +5,7 @@ Aqui, você pode encontrar os projetos de um currículo em HTML, contendo um Men
 - Início
 - Projetos
 - Contatos
+
 As respectivas páginas em HTML do projeto do currículo, estão estilzadas com CSS e a parte das interações e funcionalidades mais complexas das páginas ainda estão em processo de construção, onde o JavaScript será a nossa Linguagem de Programação.
 
   <h2> Projetos: </h2>
