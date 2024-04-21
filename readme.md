@@ -1,4 +1,4 @@
-# Hello world
+# Hello world :)
 
 ### Projeto CPW1: currúcolo em HTML, CSS and JavaScipt
 
